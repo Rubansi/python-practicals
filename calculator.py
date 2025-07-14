@@ -32,3 +32,4 @@ print(f"Product: {product_result}")  # ✖️
 print(f"Quotient: {quotient_result}")  # ➗
 
 # 🏁 And that's it! You've just made a mini-calculator! 😎💻
+# This is a simple app teste on the terminal
