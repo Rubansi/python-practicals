@@ -19,3 +19,5 @@ if quotient_result is not None:
     print(f"Quotient: {quotient_result}")
 else:
     print("Cannot divide by zero!")
+
+# End of the simple calculator app
